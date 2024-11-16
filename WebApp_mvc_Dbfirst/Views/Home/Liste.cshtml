@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebApp_mvc_Dbfirst.Models.uruntablo>
+
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Liste</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Urunadi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Urunmarka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Urunfiyat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Urunadet)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Urunadi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Urunmarka)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Urunfiyat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Urunadet)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Urunid }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Urunid }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Urunid })
+        </td>
+    </tr>
+}
+
+</table>

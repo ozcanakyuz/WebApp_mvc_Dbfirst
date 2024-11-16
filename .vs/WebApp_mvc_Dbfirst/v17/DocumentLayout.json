@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|c:\\users\\xe_bi\\source\\repos\\webapp_mvc_dbfirst\\webapp_mvc_dbfirst\\models\\urunmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|solutionrelative:webapp_mvc_dbfirst\\models\\urunmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|c:\\users\\xe_bi\\source\\repos\\webapp_mvc_dbfirst\\webapp_mvc_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|solutionrelative:webapp_mvc_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|c:\\users\\xe_bi\\source\\repos\\webapp_mvc_dbfirst\\webapp_mvc_dbfirst\\views\\home\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|solutionrelative:webapp_mvc_dbfirst\\views\\home\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|c:\\users\\xe_bi\\source\\repos\\webapp_mvc_dbfirst\\webapp_mvc_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7536AF9-BEC4-4930-9745-919DE23EBAE4}|WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst.csproj|solutionrelative:webapp_mvc_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_mvc_Dbfirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp_mvc_Dbfirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T17:27:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liste.cshtml",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Views\\Home\\Liste.cshtml",
+              "RelativeDocumentMoniker": "WebApp_mvc_Dbfirst\\Views\\Home\\Liste.cshtml",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Views\\Home\\Liste.cshtml",
+              "RelativeToolTip": "WebApp_mvc_Dbfirst\\Views\\Home\\Liste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T17:21:29.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp_mvc_Dbfirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp_mvc_Dbfirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:15:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Models\\UrunModel.edmx",
+              "RelativeDocumentMoniker": "WebApp_mvc_Dbfirst\\Models\\UrunModel.edmx",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\WebApp_mvc_Dbfirst\\WebApp_mvc_Dbfirst\\Models\\UrunModel.edmx [Diagram1]",
+              "RelativeToolTip": "WebApp_mvc_Dbfirst\\Models\\UrunModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T17:09:29.586Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
